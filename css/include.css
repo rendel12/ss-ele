@@ -81,27 +81,3 @@
 .f_info p span{}
 .f_info p span::after{content:""; display:inline-block; width:1px; height:12px; background:#8c8e90; vertical-align:middle; margin:0 10px;}
 .f_info p span:last-child::after{display:none;}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
